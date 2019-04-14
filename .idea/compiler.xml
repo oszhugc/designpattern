@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01_factory-pattern" />
+        <module name="02_abstract-factory-pattern" />
+        <module name="03_singleton-pattern" />
+        <module name="_05_prototypepattern" />
+        <module name="_06_adapterpattern" />
+        <module name="_07_bridgepattern" />
+        <module name="_08_filterpattern" />
+        <module name="_09_compositepattern" />
+        <module name="_10_decoratorpattern" />
+        <module name="_11_facadepattern" />
+        <module name="_12_flyweightpattern" />
+        <module name="_13_proxypattern" />
+        <module name="_14_Responsibilitychainpattern" />
+        <module name="_15_commandpattern" />
+        <module name="_16_interpreterpattern" />
+        <module name="_17_iteratorpattern" />
+        <module name="_18_mediatorpattern" />
+        <module name="_19_momentopattern" />
+        <module name="_20_observerpattern" />
+        <module name="_21_strategypattern" />
+        <module name="_22_templatepattern" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="abstractfactorypattern" target="1.5" />
+      <module name="builderpattern" target="1.5" />
+      <module name="factorypattern" target="1.5" />
+      <module name="singletonpattern" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

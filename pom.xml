@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.oszhugc</groupId>
+    <artifactId>designpattern</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>01_factory-pattern</module>
+        <module>02_abstract-factory-pattern</module>
+        <module>03_singleton-pattern</module>
+        <module>04_builderpattern</module>
+        <module>05_prototype-pattern</module>
+        <module>06_adapter-pattern</module>
+        <module>07_bridge-pattern</module>
+        <module>08_filter-pattern</module>
+        <module>09_composite-pattern</module>
+        <module>10_decorator-pattern</module>
+        <module>11_facade-pattern</module>
+        <module>12_flyweight-pattern</module>
+        <module>13_proxy-pattern</module>
+        <module>14_Responsibility-chain-pattern</module>
+        <module>15_command-pattern</module>
+        <module>16_interpreter-pattern</module>
+        <module>17_iterator-pattern</module>
+        <module>18_mediator-pattern</module>
+        <module>19_momento-pattern</module>
+        <module>20_observer-pattern</module>
+        <module>21_strategy-pattern</module>
+        <module>22_template-pattern</module>
+    </modules>
+
+
+</project>
